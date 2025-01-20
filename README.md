@@ -16,3 +16,6 @@ sonar.testExecutionReportPaths=test-report.xml
 sonar.javascript.lcov.reportPaths=coverage/lcov.info
 sonar.host.url=http://127.0.0.1:9000
 sonar.login=sqp_ea4b422a0dc62c424979b1ea62096473ba8e5a11
+
+npm -g config set strict-ssl false
+set NODE_TLS_REJECT_UNAUTHORIZED=0
