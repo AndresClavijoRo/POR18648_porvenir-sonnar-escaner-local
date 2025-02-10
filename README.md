@@ -19,3 +19,5 @@ sonar.login=sqp_ea4b422a0dc62c424979b1ea62096473ba8e5a11
 
 npm -g config set strict-ssl false
 set NODE_TLS_REJECT_UNAUTHORIZED=0
+
+![image](https://github.com/user-attachments/assets/c42ca17d-d52e-43b0-a43a-144492edab78)
